@@ -68,7 +68,7 @@ After running the command, you will find the following files in your output dire
     ```
 3.  **`phylogenetic_tree.png`**: A visual representation of the tree. The shorter the branches, the more closely related the sequences are.
 
-![Example Tree](https://i.imgur.com/3gY3E1p.png)
+![Example Tree](https://imgur.com/a/AGMorhq)
 
 ## License
 This project is licensed under the MIT License.
